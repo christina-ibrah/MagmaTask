@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GoogleMap</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="place_name">Place Name</string>
+    <string name="admob_app_id">ca-app-pub-2559564046715323~6653115980</string>
+    <string name="ad_unit_id">ca-app-pub-2559564046715323/2204952129</string>
+
+
+    <string-array name="places">
+        <item>Select From Dummy Data</item>
+        <item>Grand Kadri Hotel By Cristal Lebanon</item>
+        <item>Germanos - Pastry</item>
+        <item>Malak el Tawook</item>
+        <item>Z Burger House</item>
+        <item>Collège Oriental</item>
+        <item>VERO MODA</item>
+    </string-array>
+
+</resources>
